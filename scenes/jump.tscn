@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c42fgvfdpddbg"]
+
+[ext_resource type="Texture2D" uid="uid://cq2h1tgd2kn6f" path="res://shaded-dark/shadedDark26.png" id="1_hcyce"]
+
+[node name="Jump" type="TouchScreenButton"]
+texture_normal = ExtResource("1_hcyce")
+action = "jump"
